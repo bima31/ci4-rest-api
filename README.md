@@ -2,7 +2,7 @@
 
 ## Cara Penggunaan
 - Min menggunakan PHP ver 7
-- Import DD di Mysql "ci4.sql"
+- Import Database Mysql "ci4.sql"
 - file env ganti .env
 - Start "php spark serve" -> localhost:8080
 
